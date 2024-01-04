@@ -1,11 +1,11 @@
 # delete-me
-#Hellow World!
+# Hellow World!
 
 
-##Section 1
+## Section 1
 
 Introduction to GitHub
 
-##Section 2
+## Section 2
 
 Victor will beat everyone at Xperts! 
